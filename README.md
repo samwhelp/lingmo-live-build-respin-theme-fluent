@@ -87,6 +87,8 @@ or run
 | vinceliuice / [Fluent-gtk-theme](https://github.com/vinceliuice/Fluent-gtk-theme) |
 | yeyushengfan258 / [Citrus-icon-theme](https://github.com/yeyushengfan258/Citrus-icon-theme) |
 
+> [Config Sample](https://github.com/samwhelp/lingmo-adjustment/tree/main/prototype/main/style-config/switch/Fluent/Fluent-Dark-with-icon-Citrus-Dark-Red)
+
 
 
 
